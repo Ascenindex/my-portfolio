@@ -22,6 +22,7 @@ Este projeto utiliza as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## Instalação
 
